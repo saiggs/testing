@@ -1,0 +1,21 @@
+.shopping-cart {
+  max-width: 300px;
+  margin: 0 auto;
+}
+
+.shopping-cart h2 {
+  margin-bottom: 10px;
+}
+
+.shopping-cart p {
+  margin-bottom: 10px;
+}
+
+.shopping-cart ul {
+  padding: 0;
+  list-style-type: none;
+}
+
+.shopping-cart ul li {
+  margin-bottom: 5px;
+}
